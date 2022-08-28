@@ -1,0 +1,14 @@
+{
+	"name": "algoritmos",
+	"version": "1.0.0",
+	"description": "",
+	"main": "function_palindrome.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"jest": "^29.0.1"
+	}
+}
